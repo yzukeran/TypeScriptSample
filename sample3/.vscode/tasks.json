@@ -5,18 +5,7 @@
     "tasks": [
         {
             "type": "typescript",
-            "tsconfig": "sample2\\tsconfig.json",
-            "problemMatcher": [
-                "$tsc"
-            ],
-            "group": {
-                "kind": "build",
-                "isDefault": true
-            }
-        },
-        {
-            "type": "typescript",
-            "tsconfig": "sample4\\tsconfig.json",
+            "tsconfig": "tsconfig.json",
             "problemMatcher": [
                 "$tsc"
             ],
